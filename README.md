@@ -34,6 +34,9 @@
 - [x] Concluir tarefa
 - [x] Remover tarefa
 
+#### 💻 Demonstração
+<img src="https://github.com/gabriel-nt/ignite-list/blob/master/src/assets/cover.svg" alt="Imagem de demonstração" />
+
 ### ⚙ Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
