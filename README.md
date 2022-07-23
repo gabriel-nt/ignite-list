@@ -34,7 +34,7 @@
 - [x] Concluir tarefa
 - [x] Remover tarefa
 
-#### 💻 Demonstração
+### 💻 Demonstração
 <img src="https://github.com/gabriel-nt/ignite-list/blob/master/src/assets/cover.svg" alt="Imagem de demonstração" />
 
 ### ⚙ Pré-requisitos
